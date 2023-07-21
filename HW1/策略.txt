@@ -1,0 +1,9 @@
+1.先去除垃圾字
+2.用scapy、ntlk有的沒的都跑，然後取交or聯集
+3.看結果
+
+https://github.com/rock3125/enhanced-subject-verb-object-extraction/blob/master/subject_verb_object_extract.py
+Subject verb object extraction python
+
+先用有標註的去TRAIN 再拿SET來預測
+P26
